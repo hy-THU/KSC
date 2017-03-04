@@ -1,3 +1,8 @@
+'''
+Code for K-SC. 
+Author: Yu Han (yhanthu@gmail.com)
+'''
+
 import numpy as np
 import random
 from collections import defaultdict
